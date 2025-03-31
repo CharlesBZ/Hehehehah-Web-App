@@ -270,3 +270,4 @@ C:\Users\charl\Projects\cs\HehehehahWebApp\HehehehahWebApp\bin\Debug\net8.0\runt
 C:\Users\charl\Projects\cs\HehehehahWebApp\HehehehahWebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\charl\Projects\cs\HehehehahWebApp\HehehehahWebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\charl\Projects\cs\HehehehahWebApp\HehehehahWebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\charl\Projects\cs\HehehehahWebApp\HehehehahWebApp\obj\Debug\net8.0\HehehehahWebApp.sourcelink.json
