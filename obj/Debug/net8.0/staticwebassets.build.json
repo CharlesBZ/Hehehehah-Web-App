@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F2pujAEnIn8UTjA3+FSW/9tyfst2egK2iZgGFvmQYLM=",
+  "Hash": "K/UZPGIkh+yi76VVRQG0ILaqYmvvWaKdT2VwyeMegDs=",
   "Source": "HehehehahWebApp",
   "BasePath": "_content/HehehehahWebApp",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "mpkg895v99",
+      "Integrity": "JldlshMtgNOiHCP/yrSf1ovLFKf797IJLrtOLa311mc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2581,51 +2581,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\charl\\Projects\\cs\\HehehehahWebApp\\HehehehahWebApp\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:08:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\charl\\Projects\\cs\\HehehehahWebApp\\HehehehahWebApp\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2636,7 +2591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "389"
         },
         {
           "Name": "Content-Type",
@@ -2644,11 +2599,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"JldlshMtgNOiHCP/yrSf1ovLFKf797IJLrtOLa311mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:08:21 GMT"
+          "Value": "Mon, 31 Mar 2025 01:33:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2613,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-JldlshMtgNOiHCP/yrSf1ovLFKf797IJLrtOLa311mc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.mpkg895v99.css",
+      "AssetFile": "C:\\Users\\charl\\Projects\\cs\\HehehehahWebApp\\HehehehahWebApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JldlshMtgNOiHCP/yrSf1ovLFKf797IJLrtOLa311mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 01:33:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpkg895v99"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JldlshMtgNOiHCP/yrSf1ovLFKf797IJLrtOLa311mc="
         }
       ]
     },
